@@ -58,7 +58,7 @@
 :lipstick:	UI / style 파일 추가 및 수정<br>
 :memo:	문서 추가 / 수정<br>
 :fire:	코드/파일 삭제<br>
-:green_heart	CI 빌드 수정<br>
+:green_heart:	CI 빌드 수정<br>
 :construction_worker:	CI 빌드 시스템 추가 / 수정<br>
 :recycle:	코드 리팩토링<br>
 :wrench:	구성 파일 추가 / 삭제<br>
