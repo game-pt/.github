@@ -125,9 +125,10 @@
        </td>
     </tr>
 </table>
+<br>
 
-<br>
-<br>
+## 화면
+
 ![image](https://github.com/game-pt/.github/assets/45381384/95e0f839-7144-4d7e-9bf3-a2a399c39e3f)
 <br>
 ![image](https://github.com/game-pt/.github/assets/45381384/24219b94-187e-411b-86a7-e0f11963a51b)
