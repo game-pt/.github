@@ -127,4 +127,21 @@
 </table>
 
 <br>
-
+<br>
+![image](https://github.com/game-pt/.github/assets/45381384/95e0f839-7144-4d7e-9bf3-a2a399c39e3f)
+<br>
+![image](https://github.com/game-pt/.github/assets/45381384/24219b94-187e-411b-86a7-e0f11963a51b)
+<br>
+![image](https://github.com/game-pt/.github/assets/45381384/022270cd-a9a0-4071-81a1-f2862d1ff0ae)
+<br>
+![image](https://github.com/game-pt/.github/assets/45381384/7d971181-83ed-4ef0-ac0d-a582bbbfdb5c)
+<br>
+![image](https://github.com/game-pt/.github/assets/45381384/3c34271d-8bc4-4bbd-871f-0a8ae8dc5e89)
+<br>
+![image](https://github.com/game-pt/.github/assets/45381384/c8ab118a-9f70-441a-90da-1b15f1634b84)
+<br>
+![image](https://github.com/game-pt/.github/assets/45381384/109dd884-4bba-49ed-929a-880af224fd4c)
+<br>
+![image](https://github.com/game-pt/.github/assets/45381384/d1815d74-fbcb-4d7b-9f86-fe0ca68a4414)
+<br>
+![image](https://github.com/game-pt/.github/assets/45381384/c57bc535-41d5-4b6e-bbc0-d3ec7f81e5ae)
